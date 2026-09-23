@@ -3,7 +3,7 @@
 The app that helps you memorise Japanese kanji. Flexible exercises, your own
 objectives, your own pace.
 
-Status: **prototype, runs locally, not yet deployed**.
+Status: **prototype, live at https://yeswekanji.streamlit.app/** (Streamlit Community Cloud, sleeps after 12 h idle).
 
 ## Run locally
 
