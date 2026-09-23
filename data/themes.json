@@ -1,0 +1,172 @@
+[
+  {
+    "id": "numbers",
+    "name_fr": "Les nombres",
+    "name_en": "Numbers",
+    "kanji": [
+      "一",
+      "二",
+      "三",
+      "四",
+      "五",
+      "六",
+      "七",
+      "八",
+      "九",
+      "十"
+    ]
+  },
+  {
+    "id": "nature",
+    "name_fr": "La nature",
+    "name_en": "Nature",
+    "kanji": [
+      "山",
+      "川",
+      "木",
+      "森",
+      "花",
+      "空",
+      "雨",
+      "雪",
+      "石",
+      "海"
+    ]
+  },
+  {
+    "id": "body",
+    "name_fr": "Le corps",
+    "name_en": "The body",
+    "kanji": [
+      "目",
+      "口",
+      "耳",
+      "鼻",
+      "手",
+      "足",
+      "頭",
+      "顔",
+      "首",
+      "体"
+    ]
+  },
+  {
+    "id": "family",
+    "name_fr": "La famille",
+    "name_en": "Family",
+    "kanji": [
+      "父",
+      "母",
+      "兄",
+      "弟",
+      "姉",
+      "妹",
+      "子",
+      "親",
+      "家",
+      "族"
+    ]
+  },
+  {
+    "id": "time",
+    "name_fr": "Le temps",
+    "name_en": "Time",
+    "kanji": [
+      "年",
+      "月",
+      "日",
+      "時",
+      "分",
+      "週",
+      "朝",
+      "昼",
+      "夜",
+      "今"
+    ]
+  },
+  {
+    "id": "directions",
+    "name_fr": "Les directions",
+    "name_en": "Directions",
+    "kanji": [
+      "上",
+      "下",
+      "左",
+      "右",
+      "前",
+      "後",
+      "東",
+      "西",
+      "南",
+      "北"
+    ]
+  },
+  {
+    "id": "colours",
+    "name_fr": "Les couleurs",
+    "name_en": "Colours",
+    "kanji": [
+      "色",
+      "赤",
+      "青",
+      "白",
+      "黒",
+      "黄",
+      "緑",
+      "紫",
+      "金",
+      "銀"
+    ]
+  },
+  {
+    "id": "school",
+    "name_fr": "L'école",
+    "name_en": "School",
+    "kanji": [
+      "学",
+      "校",
+      "教",
+      "習",
+      "本",
+      "字",
+      "書",
+      "読",
+      "文",
+      "紙"
+    ]
+  },
+  {
+    "id": "food",
+    "name_fr": "La nourriture",
+    "name_en": "Food",
+    "kanji": [
+      "食",
+      "飲",
+      "米",
+      "飯",
+      "肉",
+      "魚",
+      "茶",
+      "麦",
+      "豆",
+      "酒"
+    ]
+  },
+  {
+    "id": "motion",
+    "name_fr": "Les verbes de mouvement",
+    "name_en": "Verbs of motion",
+    "kanji": [
+      "行",
+      "来",
+      "走",
+      "歩",
+      "帰",
+      "出",
+      "入",
+      "止",
+      "乗",
+      "登"
+    ]
+  }
+]
