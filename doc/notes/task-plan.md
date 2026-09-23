@@ -11,9 +11,10 @@ what GitHub issues reference through `--plan`.
 | S4 | Streamlit app: theme picker, 5x2 card grid, flip in session_state, reveal romaji + French, `st.audio` autoplay | 1.5 h | | S2, S3 |
 | S5 | Deploy to Streamlit Community Cloud, add URL to README | 15 min | 5 min account link | S4 |
 | S6 | Smoke test on desktop Chrome, Android, iOS Safari; fix autoplay fallbacks | 30 min | 15 min on phones | S5 |
-| S7 | Attribution: EDRDG notice in app About, licence file | 15 min | | S4 |
 | S8 | Session report and ADR updates after deploy | 15 min | | S6 |
-| | **Total** | **~4.75 h** | **~30 min** | |
+| | **Total** | **~4.5 h** | **~30 min** | |
 
 Realistic calendar: one working session, deployed the same day, if the human
 links the Streamlit account when asked.
+
+S7 dropped on 2026-09-23: attribution already lives in the app's About expander and the README.
