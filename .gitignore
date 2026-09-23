@@ -1,0 +1,7 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+data/raw/kanjidic2.xml*
+.pytest_cache/

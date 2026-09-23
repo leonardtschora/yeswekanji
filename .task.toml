@@ -1,0 +1,5 @@
+[task]
+repo    = "leonardtschora/yeswekanji"
+project = "yeswekanji"
+labels  = ["prototype"]
+plan    = "doc/notes/task-plan.md"
