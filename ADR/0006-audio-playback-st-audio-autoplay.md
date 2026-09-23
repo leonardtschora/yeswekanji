@@ -28,5 +28,5 @@ interacted with the page, and the card click is that interaction.
 - Known issue: two `st.audio(autoplay=True)` calls with identical arguments raise a
   duplicate-widget error (streamlit issue 11360). Rendering the player only for the
   card just flipped sidesteps it.
-- Safari on iOS may still block autoplay on first flip. The visible player controls
-  remain as fallback. To verify during the smoke test.
+- Safari on iOS: verified 2026-09-23, autoplay works on flip. Visible player
+  controls remain as fallback.
